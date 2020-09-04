@@ -22,7 +22,7 @@ Looking to improve developers experience, deployments processes, application rel
 </p>
 
 ## Profiles
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/marceldias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marceldias" height="30" width="30" /></a>
   <a href="https://stackoverflow.com/users/4638693" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="30" width="30" /></a>
   <a href="https://keybase.io/marceldias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/keybase.svg" alt="keybase" height="30" width="30" /></a>
