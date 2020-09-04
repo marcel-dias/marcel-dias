@@ -1,11 +1,11 @@
-# Hi 👋, I'm Marcel Dias
+# Hi :wave: I'm Marcel Dias
 ## Helping developers to delivery quality software
 
-I'm a Brazilian Software Engineer working in the software development industry since 2005. Along my career I've acted as Software developer, Software architect and Team lead in big and complex projects. During this period I've developed a strong mindset for maintainability and simplicity.
-Since 2012, aside the developer role, I started researching about automation and contributing to define and implement software build and release processes. Now I'm focusing in apply my software engineering skills to improve deployments processes, application reliability and observability.
+I'm a Brazilian Software Engineer working in the software development industry since 2005 :brazil:  
+Looking to improve developers experience, deployments processes, application reliability and observability
 
 ## Infos
-- :rocket: &nbsp;&nbsp; I’m currently working at **Glovo**
+- <img alt="glovo" src="https://avatars0.githubusercontent.com/u/16120095?v=4" width="20" /> &nbsp;&nbsp; I’m currently working at **Glovo**
 - :mag: &nbsp;&nbsp; I’m currently learning: **Kubernetes, Golang**
 - :hammer_and_wrench: &nbsp;&nbsp; My interests are: **DevOps | CI/CD flows | Developer experience**
 
@@ -27,3 +27,5 @@ Since 2012, aside the developer role, I started researching about automation and
   <a href="https://stackoverflow.com/users/4638693" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="30" width="30" /></a>
   <a href="https://keybase.io/marceldias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/keybase.svg" alt="keybase" height="30" width="30" /></a>
 </p>
+
+* :coffee: &nbsp;&nbsp;[Contribute to my daily coffee](https://ko-fi.com/marceldias)
