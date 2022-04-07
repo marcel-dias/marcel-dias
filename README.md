@@ -5,8 +5,7 @@ I'm a Brazilian Software Engineer working in the software development industry s
 Looking to improve developers experience, deployments processes, application reliability and observability
 
 ## Infos
-- <img alt="glovo" src="https://avatars0.githubusercontent.com/u/16120095?v=4" width="20" /> &nbsp;&nbsp; I’m currently working at **Glovo**
-- :mag: &nbsp;&nbsp; I’m currently learning: **Kubernetes, Golang**
+- I’m currently working with **Terraform, Kubernetes, CI/CD engines**
 - :hammer_and_wrench: &nbsp;&nbsp; My interests are: **DevOps | CI/CD flows | Developer experience**
 
 ## Interests
