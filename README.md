@@ -1,22 +1,21 @@
 # Hi :wave: I'm Marcel Dias
-## Helping developers to delivery quality software
+## Helping companies to solve scalability problems
 
-I'm a Brazilian Software Engineer working in the software development industry since 2005 :brazil:  
-Looking to improve developers experience, deployments processes, application reliability and observability
+I'm a Software Engineer working in the software development industry since 2005.
+In my career, I have worn multiple hats, from Dev to Lead. 
+
+Nowadays, I work as a DevOps/platform engineer finding creative solutions to scalability problems, usually using technology.
 
 ## Infos
-- I’m currently working with **Terraform, Kubernetes, CI/CD engines**
+- I’m currently working with **Terraform, Kubernetes, Argo CD, CI/CD engines**
 - :hammer_and_wrench: &nbsp;&nbsp; My interests are: **DevOps | CI/CD flows | Developer experience**
 
 ## Interests
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="ArgoCD" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="30" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="30" height="30"/>
-  
 </p>
 
 ## Profiles
